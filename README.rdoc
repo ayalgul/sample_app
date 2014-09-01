@@ -1,2 +1,2 @@
-My first app
-<tt>rake doc:app</tt>.
+#First Ruby on rails tutorial 
+nigga please I dont even know how to do this but I will try 
